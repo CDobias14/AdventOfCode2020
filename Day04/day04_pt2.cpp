@@ -90,6 +90,10 @@ bool validate_passport(PassportData passport_data)
                 return false;
             }
         }
+        else
+        {
+            return false;
+        }
     }
     //printf("Height valid.\n");
 
