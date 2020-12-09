@@ -1,4 +1,3 @@
-// Incorrect answers: 8
 #include<cstdio>
 #include<string.h>
 
